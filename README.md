@@ -21,10 +21,8 @@ Disini saya akan menjabarkan langkah-langkah dalam penambahan frame login dalam 
 3. Buat class jframe baru bernama ‘Lupa_Password’ dan desain GUI nya
 <img width="429" alt="Screenshot 2024-11-26 at 14 29 56" src="https://github.com/user-attachments/assets/241adfd9-35b2-4248-974a-ca3940b08be0">
 
-  
-
 4. Buat class jframe baru bernama ‘buat_akun’ dan desain GUI nya
-   <img width="429" alt="Screenshot 2024-11-26 at 14 30 05" src="https://github.com/user-attachments/assets/dd483001-7224-4a27-b429-d429228f9521">
+<img width="429" alt="Screenshot 2024-11-26 at 14 30 05" src="https://github.com/user-attachments/assets/dd483001-7224-4a27-b429-d429228f9521">
 
 
 5. Kode tombol ‘Login’
